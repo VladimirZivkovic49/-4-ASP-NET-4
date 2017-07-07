@@ -1,0 +1,3 @@
+﻿1>------ Rebuild All started: Project: MovieCat_HTML2, Configuration: Debug Any CPU ------
+1>  MovieCat_HTML2 -> D:\Moja Dokumenta\1 Vladimir\Visual studio\Projekat 4 HTML\Programi rade\170414stringLimit\MovieCat_HTML2\MovieCat_HTML2\bin\MovieCat_HTML2.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
